@@ -1,0 +1,83 @@
+﻿  main.cpp
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(35,10): warning C4244: '初期化中': 'T1' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T1=int
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(36,10): warning C4244: '初期化中': 'T1' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T1=int
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(37,10): warning C4244: '初期化中': 'T1' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T1=double
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(16,11): warning C4244: 'return': 'T2' から 'T1' への変換です。データが失われる可能性があります。
+          with
+          [
+              T2=double
+          ]
+          and
+          [
+              T1=int
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(14,1): message : クラス テンプレート メンバー関数 'T1 ClassName<T1,double>::Min(T1,T2)' のコンパイル中
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(35,10): message : コンパイル対象の関数 テンプレート インスタンス化 'T1 ClassName<T1,double>::Min(T1,T2)' のリファレンスを確認してください
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(28,24): message : コンパイル対象の クラス テンプレート インスタンス化 'ClassName<int,double>' のリファレンスを確認してください
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(16,11): warning C4244: 'return': 'T2' から 'T1' への変換です。データが失われる可能性があります。
+          with
+          [
+              T2=double
+          ]
+          and
+          [
+              T1=float
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(14,1): message : クラス テンプレート メンバー関数 'T1 ClassName<T1,double>::Min(T1,T2)' のコンパイル中
+          with
+          [
+              T1=float,
+              T2=double
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(33,10): message : コンパイル対象の関数 テンプレート インスタンス化 'T1 ClassName<T1,double>::Min(T1,T2)' のリファレンスを確認してください
+          with
+          [
+              T1=float,
+              T2=double
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(26,26): message : コンパイル対象の クラス テンプレート インスタンス化 'ClassName<float,double>' のリファレンスを確認してください
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(16,11): warning C4244: 'return': 'T2' から 'T1' への変換です。データが失われる可能性があります。
+          with
+          [
+              T2=int
+          ]
+          and
+          [
+              T1=float
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(14,1): message : クラス テンプレート メンバー関数 'T1 ClassName<T1,int>::Min(T1,T2)' のコンパイル中
+          with
+          [
+              T1=float,
+              T2=int
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(32,10): message : コンパイル対象の関数 テンプレート インスタンス化 'T1 ClassName<T1,int>::Min(T1,T2)' のリファレンスを確認してください
+          with
+          [
+              T1=float,
+              T2=int
+          ]
+C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\main.cpp(25,23): message : コンパイル対象の クラス テンプレート インスタンス化 'ClassName<float,int>' のリファレンスを確認してください
+  PG3-2-2.vcxproj -> C:\Users\danma\OneDrive\デスクトップ\PG3\PG3-2-2\x64\Debug\PG3-2-2.exe
